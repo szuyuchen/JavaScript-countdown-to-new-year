@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  color: azure;
+}
+
+h2 {
+  font-size: 4rem;
+  font-weight: bold;
+  padding: 3rem;
+}
+
+.countdown {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: colum;
+  justify-content: center;
+  background-image: url(/images/bg01.jpg);
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.countdown-info {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-bottom: 20%;
+}
+
+.day,
+.hour,
+.minute,
+.second {
+  font-size: 3rem;
+}
+
+.waiting {
+  height: 50vh;
+}
+
