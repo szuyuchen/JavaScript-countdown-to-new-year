@@ -6,7 +6,7 @@ A simple countdown timer app. The deadline is determined by a date set in the co
 
 ### Page link:
 
-https://szuyuchen.github.io/countdown-to-new-year/
+https://szuyuchen.github.io/JavaScript-countdown-to-new-year/
 
 ### Reference
 
