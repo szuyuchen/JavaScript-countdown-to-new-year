@@ -1,4 +1,4 @@
-# Countdown-to-new-year
+# JavaScript-countdown-to-new-year
 
 A simple countdown timer app. The deadline is determined by a date set in the code.
 
